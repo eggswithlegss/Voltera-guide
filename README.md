@@ -28,7 +28,8 @@ The goal of this project is to document the process of using the Voltera V1 PCB 
 ### Eagel ###
 [Install Eagle](https://www.autodesk.com/products/eagle/free-download)
 #### Schematic ####
-The basic flow of Eagle is to start with a schematic, add all the parts and the connections, and then move to board to set up the final design to send to voltera. Add parts by clicking the 
+The basic flow of Eagle is to start with a schematic, add all the parts and the connections, and then move to board to set up the final design to send to voltera. Add parts by clicking the add parts icon ![alt text](h![Alt text](relative/path/to/img.jpg?raw=true "Add Parts Icon.png")
+
 #### Board ####
 ### Voltera ###
 [Install Voltera](https://support.voltera.io/desktop-application)
