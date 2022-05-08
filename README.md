@@ -7,8 +7,6 @@ The goal of this project is to document the process of using the Voltera V1 PCB 
 * Eagle
   * Schematic
     * Add Parts
-    * Library
-    * Other
   * Board
     * Layers
     * Drill Holes
@@ -28,7 +26,11 @@ The goal of this project is to document the process of using the Voltera V1 PCB 
 ### Eagel ###
 [Install Eagle](https://www.autodesk.com/products/eagle/free-download)
 #### Schematic ####
-The basic flow of Eagle is to start with a schematic, add all the parts and the connections, and then move to board to set up the final design to send to voltera. Add parts by clicking the add parts icon ![alt text](h![Alt text](relative/path/to/img.jpg?raw=true "Add Parts Icon.png")
+The basic flow of Eagle is to start with a schematic, add all the parts and the connections, and then move to board to set up the final design to send to voltera. 
+##### Add Parts #####
+Add parts by clicking the add parts icon <img src="Add Parts Icon.png" alt="drawing" width="30"/> this will open a library to search the different possible parts. The search bar is not predicitve so you must search name of the part exactly. You can use an * after letters/words to serch all parts with containing those letters or word. If your part is not included in the basic parts library, there are two options: [import the part to eagle](https://www.snapeda.com), or create a pad of soldering paste on the board to attach the part later. After the part has been downloaded import it to the library by opening the library tab in task bar. Connecting parts 
+
+
 
 #### Board ####
 ### Voltera ###
