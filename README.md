@@ -84,6 +84,8 @@ When hand soldering the best tips are to keep your soldering iron at a low tempe
 Silver scavenging is when solder is too hot and begins to eat away at the silver lining on your pcb board. To prevent this ensure you are using the voltera soldering wire and your soldering iron is around 356 °F (180 °C).
 
 ## Example ##
+Here are tjhe example of a printed board in eagle and then printed. 
+<img src="RC_OSCILLATOR.png" alt="drawing" width="500"/>    
+<img src="schematic_gavin.png" alt="drawing" width="500"/>    
 <img src="Board_gavin.png" alt="drawing" width="500"/>    
 <img src="final_Gavin.jpg" alt="drawing" width="500"/>
-<img src="schematic_Gavin.jpg" alt="drawing" width="500"/>    
