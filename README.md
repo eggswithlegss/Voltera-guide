@@ -86,4 +86,4 @@ Silver scavenging is when solder is too hot and begins to eat away at the silver
 ## Example ##
 <img src="Board_gavin.png" alt="drawing" width="500"/>    
 <img src="final_Gavin.jpg" alt="drawing" width="500"/>
-<img src="Schematic_gavin.png" alt="drawing" width="500"/>    
+<img src="schematic_Gavin.jpg" alt="drawing" width="500"/>    
