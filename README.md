@@ -53,6 +53,8 @@ You will then be prompted to use the probe to measure where the circuit will be 
 
 Then you will be prompted to use the drill component. Take your desired drill bit, there are two bits for each listed size as they go from the smallest size on the left to the largest on the right when the size label is facing you. Use the supplied hex key to loosen the fastening nut at the front of the drill. The fastening nut is small so ensure to not completelu remove it, but if you do place it in a secure location. There should be extras in the drill kit box set in case it is lost. Tighten the drill bit so only the drill head and beveled section are visible. Here is a visual for reference ().
 
+<img src="drill bit setup.jpg" alt="drawing" width="500"/> 
+
 Then plug in the drill motor to its power supply and attach it to the mount housing. It should play a tune when connected correctly. Then you should be able to run through the rest of the Voltera prompts to finish the drill section. Please note that drilling does create a lot of shaving bits so please sweep or vacuum them up as to keep our work space as clean as possible. 
 
 #### Printing ####
